@@ -1,0 +1,106 @@
+body{font-family: 'Merriweather', serif;
+    margin: 0%;}
+    .display-flex{display: flex;
+    margin-bottom: 5%;}
+    .half-width{ width: 50%;
+    padding-left: 4%;}
+    .half-width img{ width: 80%;}
+    .font-size-h1{font-size: 36px;}
+    .span-color-tomato{color:tomato ;
+        font-size: 30px;}
+    .button{
+            text-decoration: none;
+            background-image: linear-gradient(orange,tomato);
+            padding: 7px 20px;
+            color: white;
+            border-radius: 15px;
+            font-weight: 650;
+        }
+    .broder{
+            border: 5px;
+            border-color: slateblue;
+            border-left-style: solid;
+            padding-left: 15px;
+        }
+    .text-align{
+            text-align: center;
+        }
+    .box-shadow{box-shadow:5px 10px 5px rgba(14, 12, 1, 0);
+            margin-right:5%;
+            padding: 20px;
+            border-radius: 15px;
+        }
+    .box-shadow img{background-position: right;
+            width: 200px; 
+            margin-left: 5%;
+        }
+    .flex-mission {display: flex;
+        margin-bottom: 5%;
+        margin-left: 5%;
+        
+    }
+    .first-background{
+           background-color: rgba(175, 238, 238, 0.3);
+         }
+    .second-background{
+             background-color: rgba(240, 128, 128, 0.3);}
+    .third-background{
+        background-color: rgba(201, 201, 21, 0.3);
+    }
+    .flex-developer{
+         display: flex;
+         margin-left: 5%;
+         background-position: right;
+         background-image: url(image/dream.png);
+         background-repeat: no-repeat;
+    }
+    .developer-first{ width: 50% ;
+    margin-left: 5%;}
+    .developer-half img{ width: 80%;
+        border-radius: 10px;
+    }
+    .developer-half{
+        width: 50%;
+        padding: 4%;  
+    }
+    .flex-know{
+        display: flex;
+        margin: 5%;
+    
+    }
+    .half-know{
+        width: 50%;
+        padding: 4%;
+    }
+    .half-know img{
+        width: 80%;
+        border-radius: 10px;
+        padding-left: 15%;
+    }
+    .flex-html{
+        display: flex;
+        margin: 0%;
+    }
+    #text-align{
+        text-align: center;
+        margin-bottom: 0%;
+    }
+    .broder-html{
+        background-color: turquoise;
+        padding: 5%;
+    }
+    .broder-css{
+        background-color: tomato;
+        padding: 5%;
+    }
+    .broder-logo{
+        background-color: slategray;
+       padding: 5%;
+    }
+    .footer{
+        background-color: black;
+        color: gainsboro;
+        text-align: center;
+        padding-top: 10px ;
+        padding-bottom: 20px;
+    }
